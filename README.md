@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/88m8woyqw2s74cis?svg=true)](https://ci.appveyor.com/project/Burdada/patterns-task-2)
